@@ -6,4 +6,13 @@
 @import "nav.scss";
 @import "resume-item.scss";
 @import "bootstrap-overrides.scss";
+
+.btn-toggle-bullet {
+  float: right;
+}
+
+.remove-block-display {
+  display: inline-block;
+}
+
 // Components
